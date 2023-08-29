@@ -1,0 +1,8 @@
+.instagram.com	True	/	True	1727886604	mid	ZO4dDAAEAAFi55jcxKrel-FueWqQ
+.instagram.com	True	/	True	1724862604	ig_nrcb	1
+.instagram.com	True	/	True	1727886608	datr	Ax3uZDH9wh4tqo30ElmMOFuO
+.instagram.com	True	/	True	1724862616	sessionid	60326196686%3AGXkf0LVh5Gj6D7%3A28%3AAYcP-Q7n71API3N8Wnn1xIj9qySWd54G2NdBGE7HBA
+.instagram.com	True	/	True	1724862617	ig_did	9E46E5C5-3D77-4737-9A60-C4E6E2A9AD78
+.instagram.com	True	/	True	1724776262	csrftoken	94YM8Nj0bqeXgtQ8MYNGJdAi8qXDtO7g
+.instagram.com	True	/	True	0	rur	"NHA\05460326196686\0541724862662:01f7738825e90cbbcdfafe260c72d5d61942c03d24a18c0e7999b94b4a528d19629fae94"
+.instagram.com	True	/	True	1701102662	ds_user_id	60326196686
